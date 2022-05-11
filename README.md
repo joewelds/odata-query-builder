@@ -1,5 +1,8 @@
 ## Recently patched and updated! Looking For Contributors. 
 
+
+## Joe. Change window to global in the index.js file. maybe do this by changing umh to node. 
+
 # odata-query-builder
 An eloquently fluent OData query builder.
 
